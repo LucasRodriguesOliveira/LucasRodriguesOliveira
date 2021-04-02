@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LucasRodriguesOliveira
+- 👀 I’m interested in Javascript (Node, Vue, React)
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me: [see my portfolio](http://lucasoliveira.surge.sh)
