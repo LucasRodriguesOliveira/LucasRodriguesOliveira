@@ -2,35 +2,38 @@
 
 Software Developer
 
+Portuguese-Brazil (native)
+English (C1)
+Russian (A1)
+
 ---
 
 ## Tech Stack
 
-**Linguagens & Frameworks**
+**Programming Languages & Frameworks**
 - Node.js, TypeScript**, React
 - NestJS, Express**, Next.js
 - Go
+- C++
 
-**Arquitetura & Comunicação**
+**Arch & Data Transfer**
 - Rest, GraphQL, gRPC, RabbitMQ, Kafka
 - Clean, Hexagonal, DDD, CQRS
 
-**Bancos de Dados**
-- Relacionais: PostgreSQL, Oracle, SQL Server, MySQL
-- Não-relacionais: MongoDB, Redis, Elasticsearch
+**Database**
+- Relational: PostgreSQL, Oracle, SQL Server, MySQL
+- NoSQL: MongoDB, Redis, Elasticsearch
 
 ---
 
-## Atualmente
+## Currently
 
-- Desenvolvendo projetos pessoais como:
-  - GoBones (Biblioteca de Servidor Http para Golang)
-  - ShareSquare (Compartilhamento temporário de arquivos)
--  Estudando cloud (Azure, AWS, Google) e Kubernetes
+- Developing personal projects:
+  - Prelude (A Lightweight TUI Game Engine)
 
 ---
 
-## Fale comigo
+## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-rodrigues--oliveira/)
 - Email: lucasroliveira98@gmail.com
